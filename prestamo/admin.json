@@ -1,1 +1,44 @@
-
+[
+    {
+        "text": "SOLICITUD SIMPLE",
+        "logo": "https://gocredit.online/prestamo/lemonza.png",
+        "amount": 40000,
+        "percent": 0.01,
+        "link": "https://tds.pdl-profit.com/h/t98692ec684c4781?subid=appmx"
+    },
+    {
+        "text": "",
+        "logo": "https://gocredit.online/prestamo/letocredit.png",
+        "amount": 30000,
+        "percent": 0.01,
+        "link": "https://tds.pdl-profit.com/h/t2h68d85cce4d028?subid=appmx"
+    },
+    {
+        "text": "",
+        "logo": "https://gocredit.online/prestamo/finpug.png",
+        "amount": 30000,
+        "percent": 0.01,
+        "link": "https://tds.pdl-profit.com/h/sh96840b8de47813?subid=appmx"
+    },
+    {
+        "text": "GRATIS",
+        "logo": "https://gocredit.online/prestamo/moneymarket.png",
+        "amount": 6000,
+        "percent": 0.01,
+        "link": "https://tds.pdl-profit.com/h/sra686e5420c9ca4?subid=appmx"
+    },
+    {
+        "text": "",
+        "logo": "https://gocredit.online/prestamo/fiesta.png",
+        "amount": 150000,
+        "percent": 0.01,
+        "link": "https://tds.pdl-profit.com/h/t3l6911efeac3cb4?subid=appmx"
+    },
+    {
+        "text": "OFERTA TOP",
+        "logo": "https://gocredit.online/prestamo/zaimo.png",
+        "amount": 150000,
+        "percent": 0.01,
+        "link": "https://tds.pdl-profit.com/h/sba684186bfeb30e?subid=appmx"
+    }
+]
